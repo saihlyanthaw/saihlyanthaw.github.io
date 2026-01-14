@@ -3,4 +3,6 @@ git add .   / git add "filename"
 git commit -m "filesname"
 git push
 git rm "filename"
+git checkout
 git checkout -b "branch name"
+git checkout "you went to gi branch name"
