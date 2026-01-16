@@ -16,3 +16,7 @@ git init
 git remote add origin URL(github repo)
 git remote show origin
 -------------------------------------------------------
+
+Control + Z / Control + y
+Control + x / Control + v
+Control + d / ALt + selet
