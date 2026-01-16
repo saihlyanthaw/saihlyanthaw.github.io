@@ -17,6 +17,7 @@ git remote add origin URL(github repo)
 git remote show origin
 -------------------------------------------------------
 
-Control + Z / Control + y
-Control + x / Control + v
-Control + d / ALt + selet
+Control + Z (back conditions)/ Control + y (forward conditions)
+Control + x (cut ) / Control + v (past)
+Control + d (same word select) / ALt + selet (went to change word select)
+<!-- commanted --> or Control + / (commanted) 
