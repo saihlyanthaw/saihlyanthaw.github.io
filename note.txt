@@ -19,5 +19,6 @@ git remote show origin
 
 Control + Z (back conditions)/ Control + y (forward conditions)
 Control + x (cut ) / Control + v (past)
-Control + d (same word select) / ALt + selet (went to change word select)
+Control + d ( တူညီတဲ့စာလုံး ) / ALt + selet (ကိုယ်ချိန်းချင်တဲ့ စာလုံး )
 <!-- commanted --> or Control + / (commanted) 
+နောက်တစ်ကြောင်းဆင်းချင်ရင်  <br> နဲ့ဆင်းရတယ် 
